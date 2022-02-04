@@ -1,0 +1,15 @@
+/* 
+  colors
+    white #f2f0eb;
+    black #27251F
+    lightgreen #00754a
+    extralightgreen #d4e9e2
+    darkgreen #1e3932
+*/
+* {
+  color: #27251F;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/* your code */
