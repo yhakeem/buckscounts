@@ -13,3 +13,51 @@
 }
 
 /* your code */
+
+nav {
+  color:white;
+  font-size: 50px;
+  font-weight: bold;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;   
+flex-wrap: nowrap;
+} 
+  h1{
+  color:white;
+  font-size: 50px;
+  font-weight: bold;
+} 
+
+body{
+  background-color: #1e3932;
+}
+
+header{
+  font-size: 2rem;
+  background-color: grey;
+  display:flex;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+section{
+  margin-top: 2%;
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid white ;
+}
+
+.city-item{
+  background-color: green;
+  margin-left: 2%;
+  padding:1%;
+} 
+
+div{
+  margin:2%;
+}
+
+
